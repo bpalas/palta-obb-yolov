@@ -1,0 +1,9 @@
+path: ../data/roboflow
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: MADURA
+  1: SOBREMADURA
+  2: VERDE

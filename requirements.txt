@@ -1,0 +1,8 @@
+ultralytics==8.3.15
+opencv-python
+numpy
+pillow
+pyyaml
+streamlit
+onnx
+onnxruntime-gpu

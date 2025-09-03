@@ -1,0 +1,9 @@
+cd "c:\Users\benja\OneDrive\Desktop\GitHub 2025\palta-obb-yolov"
+
+python -m venv .venv
+
+..venv\Scripts\Activate
+
+python -m pip install --upgrade pip
+
+pip install -r requirements.txt

@@ -1,3 +1,33 @@
+data/roboflow/*
+!data/samples/*
+outputs/*
+*.pt
+*.onnx
+__pycache__/
+*.pyc
+.venv/
+.env
+.vscode/
+.DS_Store
+
+
+# datasets y modelos
+data/roboflow/*
+!data/samples/*
+outputs/*
+*.pt
+*.onnx
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# SO/IDE
+.DS_Store
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
